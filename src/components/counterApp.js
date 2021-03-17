@@ -49,7 +49,7 @@ export default function CounterApp(userinformation) {
         var m = Math.floor(diff/(60));
         diff = diff-(m*60);
         var s = diff;
-        return(d+" day(s), "+h+" hour(s), "+m+" minute(s), "+s+" second(s)");
+        return(d+" Tage, "+h+" Stunden, "+m+" Minuten, "+s+" Sekunden");
     }
 
 
@@ -187,6 +187,10 @@ export default function CounterApp(userinformation) {
                 <Laplist laparray={rundentimestamps} zeitenarray={timedifference}/>
                 </CardContent>
             </Card>
+
+            <div className="spacer"></div>
+            <div className="spacer"></div>
+            <div className="spacer"></div>
 
 
             <Fab onClick={handlestop} className="floatbuttonleft" variant="extended" color="primary" >

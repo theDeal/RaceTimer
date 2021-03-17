@@ -52,7 +52,7 @@ export default function Startscreen({ onsubmit }) {
                     />
                     <div className="spacer"></div>
                 <Button onClick={handlesubmit} variant="contained" color="secondary">Jetzt starten</Button>
-                <Snackbar open={Opensnackbar} autoHideDuration={6000} onClose={handleclosesnackbar} message="Alle Felder Ausfüllen !"/>
+                <Snackbar open={Opensnackbar} autoHideDuration={3000} onClose={handleclosesnackbar} message="Alle Felder Ausfüllen !"/>
             </Grid>
     );
 

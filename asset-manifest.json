@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/RaceTimer/static/css/main.0af1612c.chunk.css",
-    "main.js": "/RaceTimer/static/js/main.c4cbff72.chunk.js",
-    "main.js.map": "/RaceTimer/static/js/main.c4cbff72.chunk.js.map",
+    "main.js": "/RaceTimer/static/js/main.e5d9d3dd.chunk.js",
+    "main.js.map": "/RaceTimer/static/js/main.e5d9d3dd.chunk.js.map",
     "runtime-main.js": "/RaceTimer/static/js/runtime-main.02fbdd5a.js",
     "runtime-main.js.map": "/RaceTimer/static/js/runtime-main.02fbdd5a.js.map",
     "static/js/2.88dc16a3.chunk.js": "/RaceTimer/static/js/2.88dc16a3.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.02fbdd5a.js",
     "static/js/3.d8768d44.chunk.js",
     "static/css/main.0af1612c.chunk.css",
-    "static/js/main.c4cbff72.chunk.js"
+    "static/js/main.e5d9d3dd.chunk.js"
   ]
 }

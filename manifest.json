@@ -1,6 +1,7 @@
 {
   "short_name": "Race Timer",
   "name": "Race Timer by Carlo von Reyher",
+  "description": "Eine App, die dir hilft Runden aufzunehmen.",
   "icons": [
     {
       "src": "icon.png",
